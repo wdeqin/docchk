@@ -1,0 +1,18 @@
+{
+    "check_list": [
+        {
+            "status": "A",
+            "name": "WBS",
+            "check_project_name": "N",
+            "check_project_code": "Y",
+            "elements": [ "WBS" ],
+            "alternatives": [ "WBS"],
+            "suffixs": [ ".mpp" ]
+        }
+    ],
+
+    "check_project": {
+        "project_code": "T1559591"
+        "project_name": ""
+    }
+}
